@@ -6,7 +6,6 @@ using namespace std;
 
 #include "fileRead.h"
 #include "VectorHash.h"
-#include "utilsToStudents.h"
 #include "P1.cpp"
 
 ////////////////////////////////////////////////////////////////
